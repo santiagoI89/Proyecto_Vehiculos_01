@@ -83,7 +83,7 @@ namespace Proyecto_Vehiculos
         }
         public string getVehiculosExtras()
         {
-            return " Precio:  " + Precio + " Acelerador:  " + Acelerador+ " Tamaño: "+Tamaño+" Velocidad Maxima: "+ VelocidadMaxima+" Velocimetro: "+ Velocimetro;
+            return " Precio:  " + Precio + " Acelerador:  " + Acelerador+ " Tamaño: "+Tamaño+" METROS"+" Velocidad Maxima: "+ VelocidadMaxima+" Velocimetro: "+ Velocimetro;
         }
     }
 }
